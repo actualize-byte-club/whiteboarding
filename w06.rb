@@ -14,3 +14,13 @@
 # Write a function that takes in a string and loops through the letters, printing the charater if it's any of these: (){}[]
 # Write a function that takes in a string and loops through the letters, and counts how many ( { [ there are, and counts how many ) } ] and compares to see if the respective characters are equal
 
+
+
+# Write a function that takes in two arrays of numbers and returns all the numbers that appear in both arrays.
+# Example input: [3, 56, 2, -1, 3],[5, 7, -1, 56]
+# Expected output: [-1, 56]
+
+# Visualize 
+# Write a function that takes in 2 arrays and prints the first number of the first array
+# Write a function that takes in 2 arrays and loops through each array and prints out each number
+
