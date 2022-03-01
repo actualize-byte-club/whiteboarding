@@ -22,5 +22,6 @@
 
 # Visualize 
 # Write a function that takes in 2 arrays and prints the first number of the first array
-# Write a function that takes in 2 arrays and loops through each array and prints out each number
+# Write a function that takes in 2 arrays and loops through first array and prints out each number
+# Write a function that that takes in 2 arrays and loops through the first array and then loops through the second array and compares each number in the first array to each number in the second array
 
